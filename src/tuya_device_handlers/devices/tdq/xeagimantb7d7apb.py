@@ -1,9 +1,8 @@
-"""Quirk for Temperature/Humidity sensor (product_id x3o8epevyeo3z3oa).
+"""Quirk for Temperature/Humidity sensor (product_id xeagimantb7d7apb).
 
 Tuya does not advertise any datapoints for this device.
 They have been retrieved from the Tuya Developer Portal.
 
-See https://github.com/home-assistant/core/issues/163360.
 """
 
 from tuya_device_handlers import TUYA_QUIRKS_REGISTRY
